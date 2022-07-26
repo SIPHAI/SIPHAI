@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 <div align="center">
- <h2 align="left">Reach Me Out On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+ <h2 align="left">Reach Me By: <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="left">
 <a href="https://www.facebook.com/siphai.phal.9//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Siphai Phol" height="30" width="40" /></a>
 <a href="https://instagram.com/wise005___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wise005___" height="30" width="40" /></a>
