@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @SIPHAI
-- 👀 I’m interested in drawing,coding, dancing,singing,and looking.
+- 👀 I’m interested in drawing,coding.
 - 🌱 I’m currently learning in Software development
 - 💞️ I’m looking to collaborate on in internship which is related to computer.
 - 📫 How to reach me by Email: phalsiphai18@gmail.com (+085) 87743177, 
