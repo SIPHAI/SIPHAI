@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siphai PHOL</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
+<h3 align="center">A passionate full-stack developer from Cambodia</h3>
 
 - 🔭 I’m currently do HDSD at E2STEM [Higher Diploma Software Development](https://e2stem.org.kh/)
 
