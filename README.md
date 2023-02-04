@@ -14,9 +14,6 @@
 - 📄 Know about my experiences [https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit](https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit)
 <img alt="center" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47nek05ape9k0a2eqytaw3s06dik343ug9vz4fro3t&rid=giphy.gif&ct=g">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=SIPHAI)
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/cole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cole" height="30" width="40" /></a>
