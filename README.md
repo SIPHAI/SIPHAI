@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Website for Learning English](https://trello.com/b/q0F5PME5/website-for-learning-english)
 
-- 🤝 I’m looking for help with [Satisfaction](https://trello.com/b/w1aRdqlq/final-project)
+- 🤝 I’m looking for help with [Exchange Books](https://trello.com/b/w1aRdqlq/final-project)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1174686103559647976?hl=en-GB&tab=jj&pli=1](https://www.blogger.com/blog/posts/1174686103559647976?hl=en-GB&tab=jj&pli=1)
 
