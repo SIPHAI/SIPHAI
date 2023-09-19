@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phalsiphai18@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit](https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit)
+- 📄 Know about my experiences [https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit?utm_content=DAE67vwdez4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img alt="center" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47nek05ape9k0a2eqytaw3s06dik343ug9vz4fro3t&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
