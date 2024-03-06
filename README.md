@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siphai PHOL</h1>
 <h3 align="center">A passionate full-stack developer from Cambodia</h3>
 
-- 🔭 I’m currently do HDSD at E2STEM [Higher Diploma Software Development](https://e2stem.org.kh/)
-
-- 👯 I’m looking to collaborate on [Website for Learning English](https://trello.com/b/q0F5PME5/website-for-learning-english)
+- 🔭 I graduated HDSD at E2STEM [Higher Diploma Software Development](https://e2stem.org.kh/)
 
 - 🤝 I’m looking for help with [Exchange Books](https://trello.com/b/w1aRdqlq/final-project)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1174686103559647976?hl=en-GB&tab=jj&pli=1](https://www.blogger.com/blog/posts/1174686103559647976?hl=en-GB&tab=jj&pli=1)
+- 📫 Rech me out **phalsiphai18@gmail.com**
 
-- 📫 How to reach me **phalsiphai18@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAE67vwdez4/KrsBW7KDGwZkw64X27FJIg/edit?utm_content=DAE67vwdez4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<img alt="center" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47nek05ape9k0a2eqytaw3s06dik343ug9vz4fro3t&rid=giphy.gif&ct=g">
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://twitter.com/cole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cole" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siphai phol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siphai phol" height="30" width="40" /></a>
